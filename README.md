@@ -37,7 +37,7 @@ This project focuses on analyzing student performance data using Microsoft Excel
 
 ## 📁 Project Files
 
-- `Student-Dashboard.xlsx` — Excel workbook containing the data analysis and dashboard.
+- `Sujal's Project.xlsx` — Excel workbook containing the data analysis and dashboard.
 - `Student-Dashboard.pdf` — PDF version for quick viewing, if included.
 - `dashboard-preview.png` — Dashboard screenshot.
 

@@ -49,7 +49,7 @@ Through this project, I practiced organizing data, summarizing information using
 
 Sujal
 
-Aspiring Data Analyst | Learning Excel, SQL, Power BI and Python
+Data Analyst | Learning Excel, SQL, Power BI and Python
 
 ---
 
